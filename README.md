@@ -1,14 +1,12 @@
-### Hello there!
+### Hello there
 
 
 ![](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)  
 
 
-![](https://pngset.com/images/computer-programming-person-text-monitor-electronics-transparent-png-1085031.png)
-
-
+---
 ![](https://komarev.com/ghpvc/?username=ashishantonytsr)
-
+---
 
 <!--
 **ashishantonytsr/ashishantonytsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
