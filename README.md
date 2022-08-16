@@ -4,6 +4,7 @@
 ![](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact)](https://github.com/ashishantonytsr/github-readme-stats)
 ---
 ![](https://komarev.com/ghpvc/?username=ashishantonytsr)
 ---
