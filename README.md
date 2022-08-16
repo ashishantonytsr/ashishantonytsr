@@ -1,16 +1,21 @@
-### &lt;Welcome/&gt;
+# &lt;Welcome/&gt;
+
+<p>
+ <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;" /></a>
+</p>
 
 <div style="text-align: left;">
 
 ---
 <!-- image/gif -->
-
+<div style="border: 2px solid green;">
 <img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="400" height="250"/>
 
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="400" height="250">
+</div>
 
 <!-- Most Used Languages -->
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="400" height="250">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact" alt="" width="400" > -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact)](https://github.com/ashishantonytsr/github-readme-stats) -->
 
@@ -20,13 +25,14 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ashish-antony-pauly-849929237/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="https://instagram.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+<a href="https://twitter.com/ashishantonytsr" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 			<br><br>
@@ -35,9 +41,6 @@
 	
 </p>
 
-<!-- <p>
- <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
-</p> -->
 
 <!--### 👨‍💻 Programming Languages
 
