@@ -5,12 +5,13 @@
 ---
 <!-- image/gif -->
 
-<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="400" />
+<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="400" height="250"/>
 
 
 <!-- Most Used Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact" alt="" width="400">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="400" height="250">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact" alt="" width="400" > -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact)](https://github.com/ashishantonytsr/github-readme-stats) -->
 
 
