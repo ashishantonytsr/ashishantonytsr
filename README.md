@@ -1,23 +1,24 @@
-### <Welcome/>
+### &lt;Welcome/&gt;
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ---
 <!-- image/gif -->
 
-<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="350" />
+<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="400" />
 
----
+
 <!-- Most Used Languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact)](https://github.com/ashishantonytsr/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact" alt="" width="400">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishantonytsr&layout=compact)](https://github.com/ashishantonytsr/github-readme-stats) -->
 
 
 ---
 <!-- Widgets -->
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
@@ -28,8 +29,8 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 			<br><br>
-	<img align="center" src="https://komarev.com/ghpvc/?username=ashishantonytsr"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img align="center" src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667">
+	<img src="https://komarev.com/ghpvc/?username=ashishantonytsr"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667">
 	
 </p>
 
