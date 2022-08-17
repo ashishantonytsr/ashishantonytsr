@@ -9,9 +9,9 @@
 ---
 <!-- image/gif -->
 <div style="border: 2px solid green;">
-<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="300" height="250"/>
+<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="300" height="150"/>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="300" height="250">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="300" height="150">
 </div>
 
 <!-- Most Used Languages -->
