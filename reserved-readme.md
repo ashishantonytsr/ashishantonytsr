@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishantonytsr&label=Profile%20views&color=00ff00&style=flat" alt="ashishantonytsr" /> </p>
 
 <!-- Profile trophy -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishantonytsr" alt="ashishantonytsr" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishantonytsr&theme=gitdimmed&no-bg=true&margin-w=10&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/ashishantonytsr" target="blank"><img src="https://img.shields.io/twitter/follow/ashishantonytsr?logo=twitter&style=for-the-badge" alt="ashishantonytsr" /></a> </p>
