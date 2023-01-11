@@ -26,7 +26,7 @@
 
 <p align="left">
 <!-- LinkedIn -->
-  <a href="https://in.linkedin.com/in/ashish-antony-pauly-849929237" target="blank"><img align="center"
+<!--   <a href="https://in.linkedin.com/in/ashish-antony-pauly-849929237" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ashishantonytsr" height="30" width="40" /></a>
   <a href="https://instagram.com/" target="blank"><img align="center"
@@ -37,7 +37,7 @@
       alt="ashishantonytsr" height="30" width="40" /></a>
 			<br><br>
 	<img src="https://komarev.com/ghpvc/?username=ashishantonytsr"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667">
+	<img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667"> -->
 	
 </p>
 
