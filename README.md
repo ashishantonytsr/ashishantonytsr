@@ -1,7 +1,7 @@
 # &lt;Welcome/&gt;
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=Hi+there!+I%27m+Ashish+Antony+Pauly;Welcome+to+my+GitHub+Profile!;I%27m+a+Computer+Science+Student;Intrested+in+Learning+new+Concepts;Constantly+Pushing+my+Limits;" />
+<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=Hi+there!+I%27m+Ashish;I%27m+a+Computer+Science+Student;Intrested+in+Learning+new+Concepts;Constantly+Pushing+my+Limits;" />
 </p>
 
 <div style="text-align: left;">
@@ -37,7 +37,7 @@
       alt="ashishantonytsr" height="30" width="40" /></a> -->
 			<br><br>
 	<img src="https://komarev.com/ghpvc/?username=ashishantonytsr"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667">
+<!-- 	<img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667"> -->
 	
 </p>
 
